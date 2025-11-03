@@ -52,16 +52,3 @@ While most of my work and contributions are from private projects, front-end dev
 Curious and product-driven, I love working on meaningful digital products, from startup MVPs to mature platforms. Outside of client work, I explore new tech stacks, prototype product ideas, and contribute to side projects that blend <b>tech and impact</b>.<br><br>
 If you’d like to connect, discuss a project, or just chat about <b>front-end, back-end, or mobile development</b>, feel free to reach out! 🚀
 </p>
-
-###
-
-<div align="left">
-  <a href="mailto:bergeleden@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/edenbergel/?locale=en_US" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
