@@ -42,6 +42,22 @@
 
 ###
 
+<p align="left">
+👋 I'm <b>Eden</b> — a <b>Senior Front-End & Mobile Developer</b> passionate about crafting scalable, high-quality applications with <b>React</b>, <b>React Native</b>, <b>TypeScript</b>, and <b>Node.js</b>.<br><br>
+
+💬 About me<br><br>
+
+Over the past few years, I’ve had the opportunity to work on a wide range of projects ! From <b>large-scale SaaS platforms</b> serving millions of users to <b>mobile and web applications</b> built from scratch. I’ve collaborated with people from all backgrounds, focusing on performance, clean architecture, and delivering seamless user experiences.<br><br>
+
+While most of my work and contributions are from private projects, front-end development remains my core strength, I’ve also been working with <b>Node.js</b> for the past few years, mainly through <b>serverless functions (AWS Lambda)</b>, which has deepened my understanding of scalable backend architectures.<br><br>
+
+Curious and product-driven, I love working on meaningful digital products, from startup MVPs to mature platforms. Outside of client work, I explore new tech stacks, prototype product ideas, and contribute to side projects that blend <b>tech and impact</b>.<br><br>
+
+If you’d like to connect, discuss a project, or just chat about <b>front-end, back-end, or mobile development</b> — feel free to reach out! 🚀
+</p>
+
+###
+
 <div align="left">
   <a href="mailto:bergeleden@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -50,9 +66,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">💬 About me<br><br>Curious and product-driven, I love working on meaningful digital products, from startup MVPs to scaling mature apps.<br>Outside of client work, I explore new tech stacks, prototype product ideas, and contribute to side projects that blend tech and impact.<br><br>While most of my work and contributions are private, over the past few years, I’ve had the opportunity to work on a wide range of projects ! From large-scale SaaS platforms serving millions of users to mobile and web products built from scratch. <br><br>I’m constantly exploring new ideas, experimenting with tools, and improving my craft. I’m driven by curiosity, teamwork, and a genuine desire to build meaningful products that make people’s lives easier.<br><br>If you’d like to connect, discuss a project, or just chat about front-end , back-end or mobile development, feel free to reach out!</p>
 
 ###
