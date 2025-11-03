@@ -44,6 +44,8 @@
 
 <p align="left">
 👩🏻‍💻 I'm <b>Eden</b>, a <b>FullStack Developer</b> passionate about crafting scalable, high-quality applications with <b>React</b>, <b>React Native</b>, <b>TypeScript</b>, and <b>Node.js</b>.<br><br>
+
+
 💬 About me<br><br>
 Over the past few years, I’ve had the opportunity to work on a wide range of projects ! From <b>large-scale SaaS platforms</b> serving millions of users to <b>mobile and web applications</b> built from scratch. I’ve collaborated with people from all backgrounds, focusing on performance, clean architecture, and delivering seamless user experiences.<br><br>
 While most of my work and contributions are from private projects, front-end development remains my core strength, I’ve also been working with <b>Node.js</b> for the past few years, mainly through <b>serverless functions (AWS Lambda)</b>, which has deepened my understanding of scalable backend architectures.<br><br>
