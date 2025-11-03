@@ -43,17 +43,12 @@
 ###
 
 <p align="left">
-👋 I'm <b>Eden</b> — a <b>Senior Front-End & Mobile Developer</b> passionate about crafting scalable, high-quality applications with <b>React</b>, <b>React Native</b>, <b>TypeScript</b>, and <b>Node.js</b>.<br><br>
-
+👋 I'm <b>Eden</b>, a <b>Senior Front-End & Mobile Developer</b> passionate about crafting scalable, high-quality applications with <b>React</b>, <b>React Native</b>, <b>TypeScript</b>, and <b>Node.js</b>.<br><br>
 💬 About me<br><br>
-
 Over the past few years, I’ve had the opportunity to work on a wide range of projects ! From <b>large-scale SaaS platforms</b> serving millions of users to <b>mobile and web applications</b> built from scratch. I’ve collaborated with people from all backgrounds, focusing on performance, clean architecture, and delivering seamless user experiences.<br><br>
-
 While most of my work and contributions are from private projects, front-end development remains my core strength, I’ve also been working with <b>Node.js</b> for the past few years, mainly through <b>serverless functions (AWS Lambda)</b>, which has deepened my understanding of scalable backend architectures.<br><br>
-
 Curious and product-driven, I love working on meaningful digital products, from startup MVPs to mature platforms. Outside of client work, I explore new tech stacks, prototype product ideas, and contribute to side projects that blend <b>tech and impact</b>.<br><br>
-
-If you’d like to connect, discuss a project, or just chat about <b>front-end, back-end, or mobile development</b> — feel free to reach out! 🚀
+If you’d like to connect, discuss a project, or just chat about <b>front-end, back-end, or mobile development</b>, feel free to reach out! 🚀
 </p>
 
 ###
